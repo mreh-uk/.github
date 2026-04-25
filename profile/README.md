@@ -1,13 +1,15 @@
 # MREH UK
 
-Engineering focused organization building reliable infrastructure, automation workflows and modern self-hosted platforms.
+Infrastructure, automation and platform engineering.
 
 ## Focus Areas
-- Infrastructure as Code
-- Automation
-- Platform Engineering
-- Security by design
+
+- Infrastructure automation
+- Systems engineering
+- Secure self-hosted platforms
 - Documentation-first operations
+- Windows, Linux and virtualization management
 
 ## Public Projects
-See pinned repositories below.
+
+Public repositories are used for reference implementations, documentation, and reusable tooling.
